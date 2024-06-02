@@ -1,4 +1,8 @@
 # Formulario fisica 2
+## Istruzioni
+Il file esportato in pdf si compone di 4 pagine e per farlo stare in 2 sole facciate uso il comando dal visualizzatore pdf di debian: stampa >> stampa su file >> 2 pagine per facciata.
+Rispetta il layout e di inserisci le nuove formule nel paragrafo giusto, in modo da tenere il formulazrio ordinato e permetterne una veloce consultazione.
+
 ## Storico modifiche effettuate
 Per sapere se l'ultima modifica suggerita è già stata apportata, qui ci sarà uno storico delle modifiche già divenute esecutive. Se hai proposto una modifica e qui non compare, per favore ricordami; altrimenti è tutto ok.
 1) <b>Forza di Coulomb (25)</b> "q al posto di 1"
