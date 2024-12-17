@@ -1,4 +1,6 @@
-# Formulario fisica 2
+# Formulario fisica 2 BETA
+<b>Nell'altra branch traverete il formulario ampliato da Demitri sulla base di questo.</b>
+
 ## Istruzioni
 Il file esportato in pdf si compone di 4 pagine e per farlo stare in 2 sole facciate uso il comando dal visualizzatore pdf di debian: stampa >> stampa su file >> 2 pagine per facciata.
 Rispetta il layout e di inserisci le nuove formule nel paragrafo giusto, in modo da tenere il formulazrio ordinato e permetterne una veloce consultazione.
