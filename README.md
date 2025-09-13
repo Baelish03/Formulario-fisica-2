@@ -1,4 +1,4 @@
-# Formulario fisica 2 BETA
+# Formulario fisica 2
 <b>Nell'altra branch traverete il formulario ampliato da Demitri sulla base di questo.</b>
 
 ## Istruzioni
